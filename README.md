@@ -2,7 +2,7 @@
 <p align="center">
   <img alt="Golang" src="https://img.shields.io/badge/-Go-45b8d8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-E31A31?style=flat-square&logo=ruby&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=gold" />
   <img alt="CoffeeScript" src="https://img.shields.io/badge/-CoffeeScript-2F2625?style=for&logo=coffeescript&logoColor=white" />
   
   <img alt="Node" src="https://img.shields.io/badge/-Node-07C146?style=flat-square&logo=node.js&logoColor=white" />
