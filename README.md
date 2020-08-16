@@ -48,7 +48,7 @@
   <img alt="Curl" src="https://img.shields.io/badge/-Curl-073551?style=for&logo=curl&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for&logo=css3&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=for&logo=jira&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-white?style=for&logo=linux&logoColor=FCC624" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-black?style=for&logo=linux&logoColor=FCC624" />
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-269539?style=for&logo=nginx&logoColor=white" />
   <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=for&logo=bulma&logoColor=white" />
   <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=for&logo=apache&logoColor=white" />
