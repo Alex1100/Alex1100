@@ -9,7 +9,7 @@
   <img alt="c++" src="https://img.shields.io/badge/-C++-F343BF?style=flat-square&logo=C++&logoColor=white" />
   
   <a target="_blank" style="color: #0366d6; background-color: gold; text-decoration: none" rel="noopener noreferrer" href="https://aws.amazon.com/">
-    <img style="max-width: 20px !important; background-color: gold !important; padding-left: 5px; padding-right: 5px;" alt="AWS" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1217566226827759616%2FhM6lnfw8_400x400.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2Faws&tbnid=fe_SA8R8As5oXM&vet=12ahUKEwixzJr_iqDrAhWjATQIHSr5BOsQMygCegUIARDrAQ..i&docid=2oQvSE3aAOy5-M&w=400&h=400&q=aws&ved=2ahUKEwixzJr_iqDrAhWjATQIHSr5BOsQMygCegUIARDrAQ" width="20px" />
+    <img style="max-width: 20px !important; background-color: gold !important; padding-left: 5px; padding-right: 5px;" alt="AWS" src="https://pbs.twimg.com/profile_images/1217566226827759616/hM6lnfw8_400x400.jpg" width="20px" />
   </a>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
