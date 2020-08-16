@@ -2,6 +2,9 @@
 <p align="center">
   <img alt="Golang" src="https://img.shields.io/badge/-Go-45b8d8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-E31A31?style=flat-square&logo=ruby&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="CoffeeScript" src="https://img.shields.io/badge/-CoffeeScript-2F2625?style=for&logo=coffeescript&logoColor=white" />
+  
   <img alt="Node" src="https://img.shields.io/badge/-Node-07C146?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -38,7 +41,29 @@
   <img alt="Rails" src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />
   <img alt="Ruby Gems" src="https://img.shields.io/badge/-Ruby_Gems-CC0000?style=for&logo=rubygems&logoColor=white" />
 
-  
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for&logo=flask&logoColor=white" />
+  <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=for&logo=vim&logoColor=white" />
+  <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=for&logo=gulp&logoColor=white" />
+  <img alt="Grunt" src="https://img.shields.io/badge/-Grunt-FBA919?style=for&logo=grunt&logoColor=white" />
+  <img alt="Curl" src="https://img.shields.io/badge/-Curl-073551?style=for&logo=curl&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for&logo=css3&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=for&logo=jira&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for&logo=linux&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-269539?style=for&logo=nginx&logoColor=white" />
+  <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=for&logo=bulma&logoColor=white" />
+  <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=for&logo=apache&logoColor=white" />
+  <img alt="Twilio" src="https://img.shields.io/badge/-Twilio-F22F46?style=for&logo=twilio&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=for&logo=sqlite&logoColor=white" />
+  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=for&logo=jquery&logoColor=white" />
+  <img alt="Stripe" src="https://img.shields.io/badge/-Stripe-008CDD?style=for&logo=stripe&logoColor=white" />
+  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=for&logo=eslint&logoColor=white" />
+  <img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-8669AE?style=for&logo=circleci&logoColor=white" />
+  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=for&logo=swagger&logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for&logo=rabbitmq&logoColor=white" />
+  <img alt="MaterialUI" src="https://img.shields.io/badge/-MaterialUI-0081CB?style=for&logo=material-ui&logoColor=white" />
+  <img alt="AzureDevOps" src="https://img.shields.io/badge/-AzureDevOps-0078D7?style=for&logo=azuredevops&logoColor=white" />
+
+
 </p>
 
 # Experience
