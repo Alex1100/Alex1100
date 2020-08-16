@@ -37,7 +37,6 @@
 </p>
 
 # Experience
-
 - Software Engineer @ Microsoft (Redmond, WA) Feb 2020 - Present
 - Freelance Software Engineer @ Toptal Oct 2018 - Sep 2019
 - Senior Frontend Engineer (Contract) @ Join Digital (San Jose, CA) May 2019 - July 2019
