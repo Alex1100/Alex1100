@@ -84,10 +84,12 @@
 - Full Stack Software Engineer (Contract) @ The Action Network (San Francisco, CA) Feb 2018 - May 2018
 
 # Education
-- University of Southern California - BA Policy, Planning, and Development: Real Estate Development / Sustainable Urban Planning
-- Coding Dojo
-- General Assembly
 - Hack Reactor / Galvanize
+- General Assembly
+- Coding Dojo
+- University of Southern California - BA Policy, Planning, and Development: Real Estate Development / Sustainable Urban Planning
+
+
 
 
 # Social
