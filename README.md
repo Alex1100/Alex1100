@@ -7,7 +7,6 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="c++" src="https://img.shields.io/badge/-C++-F343BF?style=flat-square&logo=C++&logoColor=white" />
-  <iframe>
   <a target="_blank" style="color: #0366d6; background-color: gold; text-decoration: none" rel="noopener noreferrer" href="https://aws.amazon.com/">
     <iframe style="max-width: 20px !important; background-color: gold !important; padding-left: 5px; padding-right: 5px;" alt="AWS" src="https://simpleicons.org/icons/amazonaws.svg" width="20px"></iframe>
   </a>
