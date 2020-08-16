@@ -9,7 +9,7 @@
   <img alt="c++" src="https://img.shields.io/badge/-C++-F343BF?style=flat-square&logo=C++&logoColor=white" />
   
   <a target="_blank" style="color: #0366d6; text-decoration: none" rel="noopener noreferrer" href="https://aws.amazon.com/">
-    <img style="max-width: 20px !important; background-color: gold; padding-left: 5px; padding-right: 5px;" alt="AWS" src="https://simpleicons.org/icons/amazonaws.svg" width="20px" backgroundColor="gold">
+    <img style="max-width: 20px !important; background-color: gold !important; padding-left: 5px; padding-right: 5px;" alt="AWS" src="https://simpleicons.org/icons/amazonaws.svg" width="20px" backgroundColor="gold">
   </a>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
