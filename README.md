@@ -7,10 +7,7 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="c++" src="https://img.shields.io/badge/-C++-F343BF?style=flat-square&logo=C++&logoColor=white" />
-  
-  <a target="_blank" style="color: #0366d6; background-color: gold; text-decoration: none" rel="noopener noreferrer" href="https://aws.amazon.com/">
-    <img style="max-width: 30px !important; background-color: gold !important; padding-left: 5px; padding-right: 5px;" alt="AWS" src="https://raw.githubusercontent.com/Alex1100/Alex1100/master/aws-logo.svg" width="30px" height="20px" />
-  </a>
+  <img alt="AWS" src="http://img.shields.io/badge/-232F3E?style=flat-square&logo=amazon-aws&logoColor=gold" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-E31A31?style=flat-square&logo=redis&logoColor=white" />
