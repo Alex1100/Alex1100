@@ -1,5 +1,5 @@
 # Skills
-!['aws-logo'](./aws-logo.svg)
+![aws-logo](./aws-logo.svg)
 <p align="center">
   <img alt="Golang" src="https://img.shields.io/badge/-Go-45b8d8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-E31A31?style=flat-square&logo=ruby&logoColor=white" />
