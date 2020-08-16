@@ -36,9 +36,25 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+# Experience
+
+- Software Engineer @ Microsoft (Redmond, WA) Feb 2020 - Present
+- Freelance Software Engineer @ Toptal Oct 2018 - Sep 2019
+- Senior Frontend Engineer (Contract) @ Join Digital (San Jose, CA) May 2019 - July 2019
+- Frontend Software Engineer (Contract) Committee on Foreign Investments in the United State (CFIUS) via U.Group (Arlington, VA) March 2019 - May 2019
+- Full Stack Software Engineer (Contract) Listing Loop (Australia) Oct 2018 - Feb 2019
+- Full Stack Software Engineer @ Planna (Tokyo, Japan) June 2018 - Dec 2018
+- Frontend Engineer (Contract) @ Florida Blue (Jacksonville, Florida) May 2018 - August 2018
+- Full Stack Software Engineer (Contract) @ The Action Network (San Francisco, CA) Feb 2018 - May 2018
+
+# Education
+- University of Southern California - BA Policy, Planning, and Development: Real Estate Development / Sustainable Urban Planning
+- Coding Dojo
+- General Assembly
+- Hack Reactor / Galvanize
+
 
 # Social
 <p align="center">
-	<a href="https://github.com/alex1100"><img src="https://img.shields.io/github/followers/alex1100.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/alex1100"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
