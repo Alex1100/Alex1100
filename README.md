@@ -27,7 +27,6 @@
   <img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
   <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
-  <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
@@ -87,7 +86,7 @@
 - Hack Reactor / Galvanize
 - General Assembly
 - Coding Dojo
-- University of Southern California - BA Policy, Planning, and Development: Real Estate Development / Sustainable Urban Planning
+- University of Southern California - BS Real Estate Development
 
 ## &#x1f4c8; GitHub Stats
 
