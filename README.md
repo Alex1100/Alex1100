@@ -76,7 +76,7 @@
 - Software Engineer @ Microsoft (Redmond, WA) Feb 2020 - Present
 - Freelance Software Engineer @ Toptal Oct 2018 - Sep 2019
 - Senior Frontend Engineer (Contract) @ Join Digital (San Jose, CA) May 2019 - July 2019
-- Frontend Software Engineer (Contract) Committee on Foreign Investments in the United State (CFIUS) via U.Group (Arlington, VA) March 2019 - May 2019
+- Frontend Software Engineer (Contract) Committee on Foreign Investments in the United States (CFIUS) via U.Group (Arlington, VA) March 2019 - May 2019
 - Full Stack Software Engineer (Contract) Listing Loop (Australia) Oct 2018 - Feb 2019
 - Full Stack Software Engineer @ Planna (Tokyo, Japan) June 2018 - Dec 2018
 - Frontend Engineer (Contract) @ Florida Blue (Jacksonville, Florida) May 2018 - August 2018
