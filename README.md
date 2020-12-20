@@ -104,15 +104,17 @@
   <img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" /></a>
 </p>
 
+
+# Pinned Repos
 <a href="https://github.com/Alex1100/matterport_task_bot_server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/Alex1100/matterport_task_bot_server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/Alex1100/matterport_task_bot_server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/Alex1100/matterport_task_bot_server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=Gradient" />
 </a>
