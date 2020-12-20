@@ -94,7 +94,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex1100&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true&layout=compact" />
 </a>
 <a href="https://github.com/Alex1100/Alex1100">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alex1100&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true" alt="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alex1100&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true&theme=Gradient" alt="" />
 </a>
 
 # Social
@@ -116,5 +116,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/Alex1100/matterport_task_bot_server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=Gradient" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=gradient" />
 </a>
