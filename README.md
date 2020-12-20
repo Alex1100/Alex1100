@@ -109,12 +109,12 @@
 <a href="https://github.com/Alex1100/matterport_task_bot_server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/Alex1100/matterport_task_bot_server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=vision-friendly-dark" />
+<a href="https://github.com/Alex1100/tinder-swipe-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=tinder-swiper-bot&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/Alex1100/matterport_task_bot_server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=vision-friendly-dark" />
+<a href="https://github.com/Alex1100/golang-practice">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=golang-practice&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/Alex1100/matterport_task_bot_server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=vision-friendly-dark" />
+<a href="https://github.com/Alex1100/og-equity-compensation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=og-equity-compensation&theme=vision-friendly-dark" />
 </a>
