@@ -104,4 +104,15 @@
   <img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" /></a>
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=shades-of-purple)](https://github.com/Alex1100/matterport_task_bot_server)
+<a href="https://github.com/Alex1100/matterport_task_bot_server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=shades-of-purple" />
+</a>
+<a href="https://github.com/Alex1100/matterport_task_bot_server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=shades-of-purple" />
+</a>
+<a href="https://github.com/Alex1100/matterport_task_bot_server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=shades-of-purple" />
+</a>
+<a href="https://github.com/Alex1100/matterport_task_bot_server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex1100&repo=matterport_task_bot_server&theme=shades-of-purple" />
+</a>
