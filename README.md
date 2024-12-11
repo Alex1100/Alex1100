@@ -73,7 +73,10 @@
 </p>
 
 # Experience
-- Software Engineer @ Microsoft (Redmond, WA) Feb 2020 - Present
+- Staff Software Engineer @ PayPal inc Sep 2024 - Present
+- Technical Co-Founder @ Tall Blue Fox inc Feb 2024 - Aug 2024
+- Web Solutions Engineer L4 @ Google (Los Angeles, CA) Apr 2022 - Sep 2023
+- Software Engineer II @ Microsoft (Redmond, WA) Feb 2020 - Apr 2022
 - Freelance Software Engineer @ Toptal Oct 2018 - Sep 2019
 - Senior Frontend Engineer (Contract) @ Join Digital (San Jose, CA) May 2019 - July 2019
 - Frontend Software Engineer (Contract) Committee on Foreign Investments in the United States (CFIUS) via U.Group (Arlington, VA) March 2019 - May 2019
