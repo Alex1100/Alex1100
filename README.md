@@ -73,7 +73,7 @@
 </p>
 
 # Experience
-- Staff Software Engineer @ PayPal inc (Autin, TX) Sep 2024 - Present
+- Staff Software Engineer @ PayPal inc (Austin, TX) Sep 2024 - Present
 - Technical Co-Founder @ Tall Blue Fox inc (Los Angeles, CA) Feb 2024 - Aug 2024
 - Web Solutions Engineer L4 @ Google (Los Angeles, CA) Apr 2022 - Sep 2023
 - Software Engineer II @ Microsoft (Redmond, WA) Feb 2020 - Apr 2022
